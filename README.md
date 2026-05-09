@@ -27,3 +27,20 @@
 - **Ali OSS** 文件存储
 
 ## 📁 项目结构
+├── frontend/ # Next.js 前端
+├── server/ # Express + LangGraph 后端
+└── README.md
+
+
+## ⚡ 快速开始
+
+```bash
+# 前端
+cd frontend
+npm install
+npm run dev
+
+# 后端
+cd server
+npm install
+npm run dev
