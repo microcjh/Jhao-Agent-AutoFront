@@ -28,7 +28,9 @@
 
 ## 📁 项目结构
 ├── frontend/ # Next.js 前端
+
 ├── server/ # Express + LangGraph 后端
+
 └── README.md
 
 
